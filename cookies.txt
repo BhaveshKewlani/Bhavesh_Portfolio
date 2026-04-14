@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+preview.emergentagent.com	TRUE	/	FALSE	1999999999	__cf_bm	x6v_0KcS8Kp328bm.36OjqyeyDUxuaO_3B5EfnxCmK8-1775917413.7358387-1.0.1.1-IqsQGLOHZCQR8mAQG4V9eSzv.78wt1uANlVRavMLflq0usIweXEf2_vFT7lTndDaF8IIqGzeTkRyd7altVRiCDqDUMvEjim2s.sRw9f667e6jBwHsKTCALyWCeuKp0Oz
+
